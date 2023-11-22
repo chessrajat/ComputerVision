@@ -3,4 +3,5 @@ venv
 data
 logs
 results
+models
 test.py
